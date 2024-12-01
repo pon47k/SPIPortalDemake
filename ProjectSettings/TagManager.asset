@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - blue
+  - orange
   layers:
   - Default
   - TransparentFX
@@ -11,8 +13,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - Player
   - 
   - 
   - 
@@ -40,4 +42,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 4281703283
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 198375911
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 1284826415
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3501492541
+    locked: 0
+  - name: Cubexd
+    uniqueID: 3289279791
     locked: 0
